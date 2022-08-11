@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#-------------1st section: to create apache config and create web directory and download wordpress------------------
+#---------------1st section: to create apache config and create web directory and download wordpress------------------
 search="abc.com" 
 replace=$1  # 1st argument domain-name 
 replace_email=$2 # 2nd argument email  

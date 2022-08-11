@@ -1,5 +1,5 @@
 # Automate Apache website creation and WordPress Deployment 
-This is just a demo project to automate folowing 2 System Administrator's tasks  
+This is just a demo project to automate folowing 2 System Administrator's tasks.  
 
 # 1 - Add new website configuration in existing Apache web server
 As this project have 2 files; 1st is template.conf and 2nd is apacheconfig.sh,
